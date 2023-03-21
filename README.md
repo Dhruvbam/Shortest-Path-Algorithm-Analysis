@@ -1,4 +1,4 @@
-![alt text](https://github.com/Dhruvbam/Dual-Tone-Multi-Frequency-Decoder/blob/main/dtmf.jpg)
+![alt text](https://github.com/Dhruvbam/Shortest-Path-Finder/blob/main/sp1.png)
 # Shortest-Path-Finder
 A Python project using Dijkstra's and Bellman-Ford algorithms to find the shortest path between college buildings.
 #### In this project, we have used Dijkstra algorithm to calculate optimal shortest path between two locations. On the other hand, we have used Bellman- Ford algorithm to find the shortest path because it is more versatile and is capable of handling graphs in which some of the edges are negative numbers. In this project, we assume there is 1 text file which has all the school buildings and the distances between the school buildings. This project is based on real-world application. Shortest path algorithms are applied to find the directions between physical locations, such as driving directions on websites like Google Maps. For this specific project, we are finding the shortest path to go to the other buildings from Computer Science buildings. 
